@@ -1,72 +1,72 @@
-# Пройден курс [Нетология](https://netology.ru/)
+# РџСЂРѕР№РґРµРЅ РєСѓСЂСЃ [РќРµС‚РѕР»РѕРіРёСЏ](https://netology.ru/)
 
-# Программа обучения:
+# РџСЂРѕРіСЂР°РјРјР° РѕР±СѓС‡РµРЅРёСЏ:
 
 ## Git
 
-- [Внедрение системы контроля версий](https://github.com/AlekseiAnikeev/netology-lesson13)
-- [История работы и ветки](https://github.com/AlekseiAnikeev/netology-lesson13)
-- [Командная работа](https://github.com/Kolyvanov/Teamwork1)
+- [Р’РЅРµРґСЂРµРЅРёРµ СЃРёСЃС‚РµРјС‹ РєРѕРЅС‚СЂРѕР»СЏ РІРµСЂСЃРёР№](https://github.com/AlekseiAnikeev/netology-lesson13)
+- [РСЃС‚РѕСЂРёСЏ СЂР°Р±РѕС‚С‹ Рё РІРµС‚РєРё](https://github.com/AlekseiAnikeev/netology-lesson13)
+- [РљРѕРјР°РЅРґРЅР°СЏ СЂР°Р±РѕС‚Р°](https://github.com/Kolyvanov/Teamwork1)
 
-#### InMemory хранение данных: коллекции
+#### InMemory С…СЂР°РЅРµРЅРёРµ РґР°РЅРЅС‹С…: РєРѕР»Р»РµРєС†РёРё
 
-- [Generics в коллекциях и методах](https://github.com/AlekseiAnikeev/netology-lesson17)
-- [Коллекции List](https://github.com/AlekseiAnikeev/netology-lesson18)
-- [Коллекции Queue](https://github.com/AlekseiAnikeev/netology-lesson19)
-- [Коллекция HashMap и HashSet #1](https://github.com/AlekseiAnikeev/netology-lesson20-1)
-- [Коллекция HashMap и HashSet #2](https://github.com/AlekseiAnikeev/-netology-lesson20-2)
-- [Коллекции TreeMap и TreeSet](https://github.com/AlekseiAnikeev/netology-lesson21)
+- [Generics РІ РєРѕР»Р»РµРєС†РёСЏС… Рё РјРµС‚РѕРґР°С…](https://github.com/AlekseiAnikeev/netology-lesson17)
+- [РљРѕР»Р»РµРєС†РёРё List](https://github.com/AlekseiAnikeev/netology-lesson18)
+- [РљРѕР»Р»РµРєС†РёРё Queue](https://github.com/AlekseiAnikeev/netology-lesson19)
+- [РљРѕР»Р»РµРєС†РёСЏ HashMap Рё HashSet #1](https://github.com/AlekseiAnikeev/netology-lesson20-1)
+- [РљРѕР»Р»РµРєС†РёСЏ HashMap Рё HashSet #2](https://github.com/AlekseiAnikeev/-netology-lesson20-2)
+- [РљРѕР»Р»РµРєС†РёРё TreeMap Рё TreeSet](https://github.com/AlekseiAnikeev/netology-lesson21)
 
 ## Java Core
 
-#### Stream API, работа с файлами и сборка проектов
+#### Stream API, СЂР°Р±РѕС‚Р° СЃ С„Р°Р№Р»Р°РјРё Рё СЃР±РѕСЂРєР° РїСЂРѕРµРєС‚РѕРІ
 
-- [Лямбда-выражения и функциональные интерфейсы](https://github.com/AlekseiAnikeev/netology-lesson21)
-- [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/AlekseiAnikeev/netology-lesson23)
-- [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/AlekseiAnikeev/netology-lesson24)
-- [Сборка проектов. Maven](https://github.com/AlekseiAnikeev/netology-lesson25-1)
-- [Сборка проектов. Gradle](https://github.com/AlekseiAnikeev/netology-lesson25-2)
-- [Работа с файлами CSV, XML, JSON](https://github.com/AlekseiAnikeev/netology-lesson24)
+- [Р›СЏРјР±РґР°-РІС‹СЂР°Р¶РµРЅРёСЏ Рё С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅС‹Рµ РёРЅС‚РµСЂС„РµР№СЃС‹](https://github.com/AlekseiAnikeev/netology-lesson21)
+- [Stream API. РџРѕС‚РѕРєРё, РїРѕРІС‚РѕСЂРЅС‹Рµ РІС‹Р·РѕРІС‹, РѕСЃРЅРѕРІРЅС‹Рµ РјРµС‚РѕРґС‹](https://github.com/AlekseiAnikeev/netology-lesson23)
+- [РџРѕС‚РѕРєРё РІРІРѕРґР°-РІС‹РІРѕРґР°. Р Р°Р±РѕС‚Р° СЃ С„Р°Р№Р»Р°РјРё. РЎРµСЂРёР°Р»РёР·Р°С†РёСЏ](https://github.com/AlekseiAnikeev/netology-lesson24)
+- [РЎР±РѕСЂРєР° РїСЂРѕРµРєС‚РѕРІ. Maven](https://github.com/AlekseiAnikeev/netology-lesson25-1)
+- [РЎР±РѕСЂРєР° РїСЂРѕРµРєС‚РѕРІ. Gradle](https://github.com/AlekseiAnikeev/netology-lesson25-2)
+- [Р Р°Р±РѕС‚Р° СЃ С„Р°Р№Р»Р°РјРё CSV, XML, JSON](https://github.com/AlekseiAnikeev/netology-lesson24)
 
-#### Тестирование
+#### РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ
 
-- [Тестирование кода и Unit-тесты](https://github.com/AlekseiAnikeev/netology-lesson26)
-- [Mockito. Мокирование вызовов, Mock](https://github.com/AlekseiAnikeev/netology-lesson27)
+- [РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ РєРѕРґР° Рё Unit-С‚РµСЃС‚С‹](https://github.com/AlekseiAnikeev/netology-lesson26)
+- [Mockito. РњРѕРєРёСЂРѕРІР°РЅРёРµ РІС‹Р·РѕРІРѕРІ, Mock](https://github.com/AlekseiAnikeev/netology-lesson27)
 
-#### Работа с сетью ![OSI, TCP AND UDP](https://cdn0.iconfinder.com/data/icons/digital-marketing-1-10/50/10-32.png)
+#### Р Р°Р±РѕС‚Р° СЃ СЃРµС‚СЊСЋ ![OSI, TCP AND UDP](https://cdn0.iconfinder.com/data/icons/digital-marketing-1-10/50/10-32.png)
 
-- [Основы работы с сетью. Модель OSI, TCP, UDP - часть 1](https://github.com/AlekseiAnikeev/netology-lesson29-1)
+- [РћСЃРЅРѕРІС‹ СЂР°Р±РѕС‚С‹ СЃ СЃРµС‚СЊСЋ. РњРѕРґРµР»СЊ OSI, TCP, UDP - С‡Р°СЃС‚СЊ 1](https://github.com/AlekseiAnikeev/netology-lesson29-1)
 -
-    - [Основы работы с сетью. Модель OSI, TCP, UDP - часть 2](https://github.com/AlekseiAnikeev/netology-lesson29-2)
-- [Протокол HTTP. Вызов удаленных серверов](https://github.com/AlekseiAnikeev/netology-lesson30)
+    - [РћСЃРЅРѕРІС‹ СЂР°Р±РѕС‚С‹ СЃ СЃРµС‚СЊСЋ. РњРѕРґРµР»СЊ OSI, TCP, UDP - С‡Р°СЃС‚СЊ 2](https://github.com/AlekseiAnikeev/netology-lesson29-2)
+- [РџСЂРѕС‚РѕРєРѕР» HTTP. Р’С‹Р·РѕРІ СѓРґР°Р»РµРЅРЅС‹С… СЃРµСЂРІРµСЂРѕРІ](https://github.com/AlekseiAnikeev/netology-lesson30)
 
-#### Структура JVM
+#### РЎС‚СЂСѓРєС‚СѓСЂР° JVM
 
-- [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/AlekseiAnikeev/netology-lesson31)
+- [JVM. РћСЂРіР°РЅРёР·Р°С†РёСЏ РїР°РјСЏС‚Рё, СЃР±РѕСЂС‰РёРєРё РјСѓСЃРѕСЂР°, VisualVM](https://github.com/AlekseiAnikeev/netology-lesson31)
 
-## Шаблоны проектирования
+## РЁР°Р±Р»РѕРЅС‹ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ
 
-### Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
+### РџРѕСЂРѕР¶РґР°СЋС‰РёРµ С€Р°Р±Р»РѕРЅС‹. Builder, Singleton, Factory Method, Abstract Factory, Prototype
 
-- [Порождающие шаблоны. Builder](https://github.com/AlekseiAnikeev/netology-lesson33-1)
-- [Порождающие шаблоны. Singleton](https://github.com/AlekseiAnikeev/netology-lesson33-2)
+- [РџРѕСЂРѕР¶РґР°СЋС‰РёРµ С€Р°Р±Р»РѕРЅС‹. Builder](https://github.com/AlekseiAnikeev/netology-lesson33-1)
+- [РџРѕСЂРѕР¶РґР°СЋС‰РёРµ С€Р°Р±Р»РѕРЅС‹. Singleton](https://github.com/AlekseiAnikeev/netology-lesson33-2)
 
-### Структурные шаблоны. Proxy, Decorator, Adapter
+### РЎС‚СЂСѓРєС‚СѓСЂРЅС‹Рµ С€Р°Р±Р»РѕРЅС‹. Proxy, Decorator, Adapter
 
-- [Структурные шаблоны. Adapter](https://github.com/AlekseiAnikeev/netology-lesson34)
-- [Структурные шаблоны. Facade](https://github.com/AlekseiAnikeev/netology-lesson34-2)
+- [РЎС‚СЂСѓРєС‚СѓСЂРЅС‹Рµ С€Р°Р±Р»РѕРЅС‹. Adapter](https://github.com/AlekseiAnikeev/netology-lesson34)
+- [РЎС‚СЂСѓРєС‚СѓСЂРЅС‹Рµ С€Р°Р±Р»РѕРЅС‹. Facade](https://github.com/AlekseiAnikeev/netology-lesson34-2)
 
-### «Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility»
+### В«РџРѕРІРµРґРµРЅС‡РµСЃРєРёРµ С€Р°Р±Р»РѕРЅС‹. Command, Iterator, Observer, Chain of ResponsibilityВ»
 
-- [Поведенческие шаблоны. Iterator](https://github.com/AlekseiAnikeev/netology-lesson35)
+- [РџРѕРІРµРґРµРЅС‡РµСЃРєРёРµ С€Р°Р±Р»РѕРЅС‹. Iterator](https://github.com/AlekseiAnikeev/netology-lesson35)
 
-### Свойства хорошего кода и принцип SOLID
+### РЎРІРѕР№СЃС‚РІР° С…РѕСЂРѕС€РµРіРѕ РєРѕРґР° Рё РїСЂРёРЅС†РёРї SOLID
 
 - [SOLID](https://github.com/AlekseiAnikeev/netology-lesson36_SOLID)
 
-### Курсовой проект / Дипломная работа
+### РљСѓСЂСЃРѕРІРѕР№ РїСЂРѕРµРєС‚ / Р”РёРїР»РѕРјРЅР°СЏ СЂР°Р±РѕС‚Р°
 
-- [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
-- [Курсовой проект «Менеджер личных финансов»](https://github.com/AlekseiAnikeev/netology-personal_finance_manager)
-- [Курсовой проект «Менеджер задач»](https://github.com/AlekseiAnikeev/netology-lesson37-task_manager)
-- [Дипломная работа. Поисковая система](https://github.com/AlekseiAnikeev/pcs-final-diplom)
+- [РљСѓСЂСЃРѕРІРѕР№ РїСЂРѕРµРєС‚ В«РљРѕРЅРІРµСЂС‚РµСЂ РІ С‚РµРєСЃС‚РѕРІСѓСЋ РіСЂР°С„РёРєСѓВ»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
+- [РљСѓСЂСЃРѕРІРѕР№ РїСЂРѕРµРєС‚ В«РњРµРЅРµРґР¶РµСЂ Р»РёС‡РЅС‹С… С„РёРЅР°РЅСЃРѕРІВ»](https://github.com/AlekseiAnikeev/netology-personal_finance_manager)
+- [РљСѓСЂСЃРѕРІРѕР№ РїСЂРѕРµРєС‚ В«РњРµРЅРµРґР¶РµСЂ Р·Р°РґР°С‡В»](https://github.com/AlekseiAnikeev/netology-lesson37-task_manager)
+- [Р”РёРїР»РѕРјРЅР°СЏ СЂР°Р±РѕС‚Р°. РџРѕРёСЃРєРѕРІР°СЏ СЃРёСЃС‚РµРјР°](https://github.com/AlekseiAnikeev/pcs-final-diplom)
